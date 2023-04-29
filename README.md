@@ -18,7 +18,7 @@ node index.js
 ```
 
 ## Note
-The scripts are not included here, you can add scripts on your own in the **scripts** folder.
+The scripts are not included here, you can add your own scripts in the **scripts** folder.
 
 ## License
 MIT © Hanaui
