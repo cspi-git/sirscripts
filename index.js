@@ -36,9 +36,9 @@ function getLuaFiles(dirPath){
 
 /// Configurations
 // Express
-web.use(compression({ level: 1 }))
+web.use(compression({ chunkSize: 65536 }))
 web.use(express.static(path.join(__dirname, "public")))
-web.use("/scripts", express.static(path.join(__dirname, "scripts")), serveIndex(path.join(__dirname, "scripts"), { icons: true }))
+web.use("/scripts", express.static(path.join(__dirname, "scripts")), serveIndex(path.join(__dirname, "scripts"), { stylesheet: path.join(__dirname, "custom.css"), icons: true }))
 
 // Main
 web.use("", (req, res, next)=>{
