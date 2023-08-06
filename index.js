@@ -10,7 +10,9 @@ const fs = require("fs")
 // Variables
 const web = express()
 const port = process.env.PORT || 8080
+const database = require("./database.json")
 
+// Functions
 function getLuaFiles(dirPath){
 	const files = []
 	
@@ -19,7 +21,6 @@ function getLuaFiles(dirPath){
 		
         entries.map((entry)=>{
             const fullPath = path.join(dirPath, entry.name)
-            console.log(fullPath)
 
 			if(entry.isDirectory()){
 				readDirR(fullPath)
@@ -51,7 +52,8 @@ web.use("/status", async(req, res)=>{
 	return res.json({
 		status: "success",
 		data: {
-			scriptsCount: getLuaFiles(path.join(__dirname, "scripts")).length
+			scriptsCount: getLuaFiles(path.join(__dirname, "scripts")).length,
+			scripts: database
 		}
 	})
 })

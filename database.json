@@ -1,0 +1,1422 @@
+[
+  {
+    "creator(s)": "KosovoOffical",
+    "source": "https://v3rmillion.net/showthread.php?tid=1207272",
+    "statuses": {
+      "[2023-04-25]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/Adonis anti-kick.lua"
+  },
+  {
+    "creator(s)": "Exunya",
+    "statuses": {
+      "[2023-05-08]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "properties": {
+      "keyless": true
+    },
+    "fileSource": "scripts/Aimbot V2.lua"
+  },
+  {
+    "creator(s)": "(Unknown)",
+    "statuses": {
+      "[2023-05-05]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/Airwalk.lua"
+  },
+  {
+    "creator(s)": "TheSeaweedMonster",
+    "developer(s)": "I2rys#0663",
+    "source": "https://github.com/TheSeaweedMonster/Celery",
+    "statuses": {
+      "[2023-04-22]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/Alternative decompile function.lua"
+  },
+  {
+    "creator(s)": "(Unknown)",
+    "statuses": {
+      "[2023-05-17]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/Anti AFK.lua"
+  },
+  {
+    "realName": "SirSafe",
+    "creator(s)": "I2rys#0663",
+    "source": "https://github.com/TheSeaweedMonster/Celery",
+    "statuses": {
+      "[2023-04-22]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/Anti local kick, crash and etc.lua"
+  },
+  {
+    "creator(s)": "iK4oS",
+    "statuses": {
+      "[2023-04-27]": [
+        "Working | I2rys#0663 | Sirhurt",
+        "Working | Darkis#0001 | JJSploit",
+        "Working | Altorx#6903 | Synapse X (V2)"
+      ]
+    },
+    "fileSource": "scripts/backdoor.exe v8.0.0.lua"
+  },
+  {
+    "creator(s)": "ThePyschoRR#8393",
+    "statuses": {
+      "[2023-05-09]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/BillyX V0.3.lua"
+  },
+  {
+    "creator(s)": "Altorx#6903",
+    "source": "https://github.com/iUseYahoo/RobloxScripts/",
+    "statuses": {
+      "[2023-04-28]": [
+        "Working | I2rys#0663 | Sirhurt",
+        "Working | Altorx#6903 | Synapse X (V2)"
+      ]
+    },
+    "fileSource": "scripts/Blade Simulator/Blade Simulator vv1.0.5.lua"
+  },
+  {
+    "creator(s)": "(Unknown)",
+    "statuses": {
+      "[2023-05-11]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "properties": {
+      "keyless": false
+    },
+    "fileSource": "scripts/Blox Fruits/Mukuro Hub.lua"
+  },
+  {
+    "creator(s)": "(Unknown)",
+    "statuses": {
+      "[2023-05-11]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "properties": {
+      "keyless": false
+    },
+    "fileSource": "scripts/Blox Fruits/Retro Hub.lua"
+  },
+  {
+    "creator(s)": "fedo#8608",
+    "statuses": {
+      "[2023-05-02]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/Bomb Click Mine/Auto Train.lua"
+  },
+  {
+    "creator(s)": "(Unknown)",
+    "statuses": {
+      "[2023-05-05]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/Bridge tool.lua"
+  },
+  {
+    "creator(s)": "EMPLIC#9999",
+    "source": "https://github.com/ChillSoftworks/Houseg/",
+    "statuses": {
+      "[2023-04-29]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/Brookhaven/Control house script.lua"
+  },
+  {
+    "creator(s)": "WeAreDevs",
+    "source": "https://wearedevs.net/scripts/d/61081d0bfd8901d6c92747a2/BTools",
+    "statuses": {
+      "[2023-04-22]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/BTools.lua"
+  },
+  {
+    "creator(s)": "Scharolette#6473",
+    "statuses": {
+      "[2023-05-11]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/Cat Simulator/Cat Simulator.lua"
+  },
+  {
+    "creator(s)": "iK4oS",
+    "statuses": {
+      "[2023-04-27]": [
+        "Working | Darkis#0001 | JJSploit"
+      ]
+    },
+    "fileSource": "scripts/Chat Bypass.lua"
+  },
+  {
+    "creator(s)": "darkModz",
+    "statuses": {
+      "[2023-05-12]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/Chat Troll GUI.lua"
+  },
+  {
+    "creator(s)": "Altorx#6903",
+    "source": "https://wearedevs.net/scripts/d/61081d0bfd8901d6c92747a2/BTools",
+    "statuses": {
+      "[2023-04-30]": [
+        "Working | I2rys#0663 | Sirhurt",
+        "Working | Altorx#6903 | Synapse X (V2)"
+      ]
+    },
+    "fileSource": "scripts/ChatLogger.lua"
+  },
+  {
+    "creator(s)": "WeAreDevs",
+    "source": "https://wearedevs.net/scripts/d/61080a12bc0ef711ad5cb774/Click%20Teleport",
+    "statuses": {
+      "[2023-04-22]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/Click Teleport.lua"
+  },
+  {
+    "creator(s)": "(Unknown)",
+    "statuses": {
+      "[2023-05-17]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/Closure Spy.lua"
+  },
+  {
+    "creator(s)": "WeAreDevs",
+    "source": "https://wearedevs.net/scripts/d/61081fc3fd8901d6c92747a3/Night%20Time%20Toggle",
+    "statuses": {
+      "[2023-04-22]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/Day Night Toggle.lua"
+  },
+  {
+    "creator(s)": "Aidez",
+    "statuses": {
+      "[2023-05-08]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/Decaying Winter/Decaying Winter.lua"
+  },
+  {
+    "creator(s)": "Moon, Courtney",
+    "source": "https://github.com/fheahdythdr/legendary-train",
+    "statuses": {
+      "[2023-04-25]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ],
+      "[2023-04-27]": [
+        "Working | Darkis#0001 | JJSploit"
+      ]
+    },
+    "fileSource": "scripts/Dex Explorer V1.lua"
+  },
+  {
+    "creator(s)": "Babyhamsta",
+    "developer(s)": "I2rys#0663",
+    "source": "https://wearedevs.net/scripts/d/610067c537cd63b05ca78e6a/Dex%20Explorer",
+    "statuses": {
+      "[2023-04-23]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ],
+      "[2023-04-27]": [
+        "Working | Darkis#0001 | JJSploit"
+      ]
+    },
+    "fileSource": "scripts/Dex Explorer v2.0.0-SH1.lua"
+  },
+  {
+    "creator(s)": "LOLking123456",
+    "statuses": {
+      "[2023-05-13]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/Drive World/Drive World I Legend HandlesYT.lua"
+  },
+  {
+    "creator(s)": "Edge",
+    "statuses": {
+      "[2023-04-27]": [
+        "Working | I2rys#0663 | Sirhurt",
+        "Working | Darkis#0001 | JJSploit"
+      ]
+    },
+    "fileSource": "scripts/Edge's Audio Logger.lua"
+  },
+  {
+    "creator(s)": "(Unknown)",
+    "statuses": {
+      "[2023-05-06]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/Epix's FE GUI v1.1.lua"
+  },
+  {
+    "creator(s)": "Ziggy#3121",
+    "source": "https://github.com/JIGgy213/Ziggy3131",
+    "statuses": {
+      "[2023-04-23]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/Every Second You Get +1 Jump Power/Ziggy's Every Sec +1 Jump Power Auto Farm.lua"
+  },
+  {
+    "creator(s)": "fedo#8608",
+    "statuses": {
+      "[2023-04-27]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/Fart Race/Auto farm.lua"
+  },
+  {
+    "creator(s)": "fedo#8608",
+    "statuses": {
+      "[2023-05-02]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/Fart Race Poop/Auto farm.lua"
+  },
+  {
+    "creator(s)": "HoyoGey",
+    "source": "https://github.com/HoyoGey/Here-something-code",
+    "statuses": {
+      "[2023-05-13]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/Flee the Facility/ESP Gui.lua"
+  },
+  {
+    "creator(s)": "Mathematician",
+    "source": "https://v3rmillion.net/showthread.php?tid=1135411&highlight=Fling+things",
+    "statuses": {
+      "[2023-04-22]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/Fling Things and People/Fling people in one click.lua"
+  },
+  {
+    "creator(s)": "me_ozone, Quandale The Dinglish XII#3550",
+    "statuses": {
+      "[2023-04-26]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/Fly GUI v3.lua"
+  },
+  {
+    "creator(s)": "(Unknown)",
+    "statuses": {
+      "[2023-05-12]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/FPS Optimizer.lua"
+  },
+  {
+    "creator(s)": "Fractality",
+    "developer(s)": "TheGamer101",
+    "source": "https://github.com/Roblox/Core-Scripts/blob/master/CoreScriptsRoot/Modules/Server/FreeCamera/FreeCamera.lua",
+    "statuses": {
+      "[2023-04-22]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "keybind(s)": [
+      "To exit and enter free camera, use key shortcut Left Shift + P"
+    ],
+    "fileSource": "scripts/Freecam.lua"
+  },
+  {
+    "creator(s)": "Altorx#6903",
+    "source": "https://github.com/iUseYahoo/RobloxScripts/",
+    "statuses": {
+      "[2023-04-29]": [
+        "Working | I2rys#0663 | Sirhurt",
+        "Working | Altorx#6903 | Synapse X (V2)"
+      ]
+    },
+    "fileSource": "scripts/Gas Station Simulator/Gas Station Simulator GUI.lua"
+  },
+  {
+    "creator(s)": "illremember",
+    "statuses": {
+      "[2023-05-21]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/GlitchMax GUI.lua"
+  },
+  {
+    "creator(s)": "empireinfinity",
+    "statuses": {
+      "[2023-05-12]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/GPU Saver.lua"
+  },
+  {
+    "creator(s)": "WeAreDevs",
+    "source": "https://wearedevs.net/scripts/d/610067c537cd63b05ca78e6d/Gravity%20Switch",
+    "statuses": {
+      "[2023-04-22]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/Gravity Switch.lua"
+  },
+  {
+    "creator(s)": "(Unknown)",
+    "statuses": {
+      "[2023-05-18]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/Hitbox expander.lua"
+  },
+  {
+    "creator(s)": "ou1z",
+    "developer(s)": "I2rys#0663",
+    "source": "https://github.com/ou1z/Roblox-Scripts",
+    "statuses": {
+      "[2023-04-22]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/HTTP Spy.lua"
+  },
+  {
+    "creator(s)": "WeAreDevs",
+    "source": "https://wearedevs.net/scripts/d/610812d2bc0ef711ad5cb775/Human%20Flashlight",
+    "statuses": {
+      "[2023-04-22]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/Human Flashlight.lua"
+  },
+  {
+    "creator(s)": "Londiuh",
+    "statuses": {
+      "[2023-05-16]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/Icon changer.lua"
+  },
+  {
+    "creator(s)": "(Unknown)",
+    "statuses": {
+      "[2023-05-12]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/Impossible Glass Bridge Obby/Reveal Glass.lua"
+  },
+  {
+    "creator(s)": "WeAreDevs",
+    "source": "https://wearedevs.net/scripts/d/6228f370e85d26dd94af7537/Infinite%20Jump",
+    "statuses": {
+      "[2023-04-22]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ],
+      "[2023-04-25]": [
+        "Working | I2rys#0663 | Private Exploit (Uses WrdAPI)"
+      ]
+    },
+    "fileSource": "scripts/Infinite Jump.lua"
+  },
+  {
+    "creator(s)": "Edge",
+    "source": "https://github.com/EdgeIY/infiniteyield",
+    "statuses": {
+      "[2023-04-22]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/Infinite Yield.lua"
+  },
+  {
+    "creator(s)": "ou1z",
+    "source": "https://github.com/ou1z/Roblox-Scripts",
+    "statuses": {
+      "[2023-04-22]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/Input recorder.lua"
+  },
+  {
+    "creator(s)": "WeAreDevs",
+    "source": "https://wearedevs.net/scripts/d/61082c73b5ba5eb625c37737/Invisible%20Character",
+    "statuses": {
+      "[2023-04-22]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/Invisible Player.lua"
+  },
+  {
+    "creator(s)": "0866",
+    "developer(s)": "I2rys#0663",
+    "helper(s)": "FoxXtreme#9186",
+    "source": "https://github.com/michaeljuerobin/asdefhew4h4wh",
+    "statuses": {
+      "[2023-04-22]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ],
+      "[2023-05-01]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/Krnl SaveInstance.lua"
+  },
+  {
+    "creator(s)": "(Unknown)",
+    "statuses": {
+      "[2023-05-12]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/Legends of Speed/Harley Hub.lua"
+  },
+  {
+    "creator(s)": "(Unknown)",
+    "statuses": {
+      "[2023-05-15]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/Lollipop Simulator/FE BTools.lua"
+  },
+  {
+    "creator(s)": "Altorx#6903",
+    "statuses": {
+      "[2023-05-01]": [
+        "Working | I2rys#0663 | Sirhurt",
+        "Working | Altorx#6903 | Synapse X (V2)"
+      ]
+    },
+    "fileSource": "scripts/LuaMinifierV1.lua"
+  },
+  {
+    "creator(s)": "WeAreDevs",
+    "source": "https://wearedevs.net/scripts/d/6108383db5ba5eb625c37738/Magnetize%20To%20Player",
+    "statuses": {
+      "[2023-04-22]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ],
+      "[2023-04-25]": [
+        "Working | I2rys#0663 | Private Exploit (Uses WrdAPI)"
+      ]
+    },
+    "fileSource": "scripts/Magnetize to player.lua"
+  },
+  {
+    "creator(s)": "Rebug",
+    "statuses": {
+      "[2023-04-27]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/Mr.Spy v2.lua"
+  },
+  {
+    "creator(s)": "(Unknown)",
+    "statuses": {
+      "[2023-05-12]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/Murder Mystery 2/MM2 GUI.lua"
+  },
+  {
+    "creator(s)": "Vynixu",
+    "source": "rbxassetid://4001118261",
+    "statuses": {
+      "[2023-04-22]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/Murder Mystery 2/VynixuMM2Script.lua"
+  },
+  {
+    "creator(s)": "Hussain",
+    "source": "https://github.com/hussain1323232234/My-Scripts",
+    "statuses": {
+      "[2023-04-29]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/Natural Disaster/Natural Disaster Hub.lua"
+  },
+  {
+    "creator(s)": "(Unknown)",
+    "statuses": {
+      "[2023-05-03]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/Natural Disaster/NDS GUI.lua"
+  },
+  {
+    "creator(s)": "Infortality",
+    "statuses": {
+      "[2023-05-09]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/Noclip GUI.lua"
+  },
+  {
+    "creator(s)": "Oooga Booga",
+    "source": "https://v3rmillion.net/showthread.php?tid=1204050",
+    "statuses": {
+      "[2023-04-25]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/OP Ghost Mode.lua"
+  },
+  {
+    "creator(s)": "(Unknown)",
+    "statuses": {
+      "[2023-05-08]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/OpenGUI v1.11.lua"
+  },
+  {
+    "creator(s)": "xFunnieuss",
+    "statuses": {
+      "[2023-05-06]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/OPFinality GUI.lua"
+  },
+  {
+    "creator(s)": "CriShoux, Chrome",
+    "source": "https://wearedevs.net/scripts/d/6171b5746ec8254a535573d7/Owl%20Hub",
+    "statuses": {
+      "[2023-04-22]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/OwlHub.lua"
+  },
+  {
+    "creator(s)": "chujdupacipa",
+    "statuses": {
+      "[2023-05-15]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/Pet Simulator X/Unlock all teleports.lua"
+  },
+  {
+    "creator(s)": "(Unknown)",
+    "statuses": {
+      "[2023-05-16]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/PM spam.lua"
+  },
+  {
+    "creator(s)": "02hacks",
+    "source": "https://github.com/02hacks/Prevail-X",
+    "statuses": {
+      "[2023-04-22]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/Prison Life/Prison Life ~ Prevail.lua"
+  },
+  {
+    "creator(s)": "lucky#9919",
+    "statuses": {
+      "[2023-05-15]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/Punch a brick wall simulator/Auto farm.lua"
+  },
+  {
+    "creator(s)": "(Unknown)",
+    "statuses": {
+      "[2023-05-15]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/Reduce lag.lua"
+  },
+  {
+    "creator(s)": "Psykek#3180",
+    "statuses": {
+      "[2023-05-06]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/RHS GUI.lua"
+  },
+  {
+    "creator(s)": "(Unknown)",
+    "statuses": {
+      "[2023-05-21]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/Riley's Apoc GUI.lua"
+  },
+  {
+    "creator(s)": "(Unknown)",
+    "statuses": {
+      "[2023-05-15]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/Roblox chat logger.lua"
+  },
+  {
+    "creator(s)": "loglizzy#1982",
+    "source": "https://wearedevs.net/scripts/d/6171b5746ec8254a535573d7/Owl%20Hub",
+    "statuses": {
+      "[2023-04-22]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/Server hop.lua"
+  },
+  {
+    "creator(s)": "exx",
+    "developer(s)": "Frosty",
+    "source": "https://github.com/exxtremestuffs/SimpleSpySource",
+    "statuses": {
+      "[2023-04-23]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/SimpleSpyV2.lua"
+  },
+  {
+    "creator(s)": "78n",
+    "source": "https://github.com/78n/SimpleSpy",
+    "statuses": {
+      "[2023-04-22]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/SimpleSpyV3.lua"
+  },
+  {
+    "creator(s)": "0x08FE#6903",
+    "source": "https://github.com/iUseYahoo/RobloxScripts/",
+    "statuses": {
+      "[2023-04-29]": [
+        "Working | I2rys#0663 | Sirhurt",
+        "Working | Altorx#6903 | Synapse X (V2)"
+      ]
+    },
+    "fileSource": "scripts/Snowman Simulator/Snowman Simulator GUI.lua"
+  },
+  {
+    "creator(s)": "3dsboy08",
+    "statuses": {
+      "[2023-04-27]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/StreamSniper.lua"
+  },
+  {
+    "creator(s)": "fedo#8608, FoxXtreme#9186, woffle#0001",
+    "statuses": {
+      "[2023-05-02]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/Super Hero Tycoon/Auto Farm.lua"
+  },
+  {
+    "creator(s)": "WeAreDevs",
+    "source": "https://wearedevs.net/scripts/d/6109a5a4a11f86fa3a1ffb90/Teleport%20To%20Player",
+    "statuses": {
+      "[2023-04-22]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ],
+      "[2023-04-25]": [
+        "Working | I2rys#0663 | Private Exploit (Uses WrdAPI)"
+      ]
+    },
+    "fileSource": "scripts/Teleport to player.lua"
+  },
+  {
+    "creator(s)": "(Unknown)",
+    "statuses": {
+      "[2023-05-18]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/Tool drop.lua"
+  },
+  {
+    "creator(s)": "(Unknown)",
+    "statuses": {
+      "[2023-05-12]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/Tower of Hell/AlphaZero.lua"
+  },
+  {
+    "creator(s)": "Vaeb",
+    "statuses": {
+      "[2023-05-17]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/Vaeb RemoteSpy.lua"
+  },
+  {
+    "creator(s)": "Gloozzy",
+    "statuses": {
+      "[2023-05-08]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "properties": {
+      "keyless": true
+    },
+    "fileSource": "scripts/Viiper X GUI.lua"
+  },
+  {
+    "creator(s)": "Altorx#6903",
+    "statuses": {
+      "[2023-04-26]": [
+        "Working | I2rys#0663 | Sirhurt",
+        "Working | Altorx#6903 | Synapse X (V2)"
+      ]
+    },
+    "fileSource": "scripts/Viking Simulator/Coins farming.lua"
+  },
+  {
+    "creator(s)": "(Unknown)",
+    "statuses": {
+      "[2023-05-13]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/Wisteria 2/Remove all enemies.lua"
+  },
+  {
+    "creator(s)": "(Unknown)",
+    "statuses": {
+      "[2023-05-05]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/[Client Side] Disappear player.lua"
+  },
+  {
+    "creator(s)": "(Unknown)",
+    "statuses": {
+      "[2023-05-05]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/[Client Side] Terrorism Uniform.lua"
+  },
+  {
+    "creator(s)": "Hackmaster12",
+    "statuses": {
+      "[2023-05-09]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/[FE] Haxa GUI.lua"
+  },
+  {
+    "creator(s)": "illremember",
+    "statuses": {
+      "[2023-05-21]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/[FE] HyperTotal GUI.lua"
+  },
+  {
+    "creator(s)": "Cyclically#4905",
+    "statuses": {
+      "[2023-05-16]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/[FE] Lag server V2.lua"
+  },
+  {
+    "creator(s)": "MastersMZ",
+    "statuses": {
+      "[2023-04-27]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/[FE] Telekenesis.lua"
+  },
+  {
+    "creator(s)": "Dvrknvss#0688",
+    "developer(s)": "collorem",
+    "statuses": {
+      "[2023-05-03]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/[FE] Universal FE - ScriptHub V3.0.1-1.lua"
+  },
+  {
+    "creator(s)": "illremember",
+    "statuses": {
+      "[2023-05-21]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/[FE] Verspin GUI.lua"
+  },
+  {
+    "creator(s)": "Zerkxyz",
+    "statuses": {
+      "[2023-04-28]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/[FE] Weird ghost.lua"
+  },
+  {
+    "creator(s)": "YoinkedYoink#4488",
+    "source": "https://github.com/YoinkedYoink/Roblox-Scripts",
+    "statuses": {
+      "[2023-05-22]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/[GUI] Aimblox.lua"
+  },
+  {
+    "creator(s)": "illremember",
+    "statuses": {
+      "[2023-05-09]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/[GUI] Arosia.lua"
+  },
+  {
+    "creator(s)": "xFunnieuss",
+    "statuses": {
+      "[2023-05-06]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/[GUI] Astrava.lua"
+  },
+  {
+    "creator(s)": "(Unknown)",
+    "statuses": {
+      "[2023-05-22]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/[GUI] Fizze.lua"
+  },
+  {
+    "creator(s)": "(Unknown)",
+    "statuses": {
+      "[2023-05-22]": [
+        "Not Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/[GUI] JurD Cracked.lua"
+  },
+  {
+    "creator(s)": "(Unknown)",
+    "statuses": {
+      "[2023-05-20]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/[GUI] Kill fling.lua"
+  },
+  {
+    "creator(s)": "Cyelically, Uctron, Builderboy256, swift",
+    "statuses": {
+      "[2023-05-22]": [
+        "Not Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/[GUI] Radical.lua"
+  },
+  {
+    "creator(s)": "(Unknown)",
+    "statuses": {
+      "[2023-05-20]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/[GUI] Rizz chat.lua"
+  },
+  {
+    "creator(s)": "(Unknown)",
+    "statuses": {
+      "[2023-04-30]": [
+        "Working | Altorx#6903 | Synapse X (V2)"
+      ]
+    },
+    "fileSource": "scripts/[SS] Fake Roblox crash error.lua"
+  },
+  {
+    "creator(s)": "(Unknown)",
+    "statuses": {
+      "[2023-04-30]": [
+        "Working | Altorx#6903 | Synapse X (V2)"
+      ]
+    },
+    "fileSource": "scripts/[SS] Kick.lua"
+  },
+  {
+    "creator(s)": "78n",
+    "source": "https://github.com/78n/SimpleSpy",
+    "statuses": {
+      "[2023-04-22]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/_packed scripts/SimpleSpyV3/main.lua"
+  },
+  {
+    "creator(s)": "Exunys",
+    "source": "https://github.com/Exunys/AirHub/",
+    "statuses": {
+      "[2023-05-01]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "properties": {
+      "keyless": true
+    },
+    "fileSource": "scripts/_script hubs/AirHub.lua"
+  },
+  {
+    "creator(s)": "(Unknown)",
+    "statuses": {
+      "[2023-05-07]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "properties": {
+      "keyless": true
+    },
+    "fileSource": "scripts/_script hubs/CheatX.lua"
+  },
+  {
+    "creator(s)": "pigeon#1818, hz#4777, Curvn#2646",
+    "source": "https://github.com/CMD-X/CMD-X",
+    "statuses": {
+      "[2023-04-22]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "properties": {
+      "keyless": true
+    },
+    "fileSource": "scripts/_script hubs/CMD-X.lua"
+  },
+  {
+    "creator(s)": "N4ri",
+    "source": "https://github.com/MarsQQ/CocoHub/",
+    "statuses": {
+      "[2023-04-28]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "properties": {
+      "keyless": true
+    },
+    "fileSource": "scripts/_script hubs/Coco Hub.lua"
+  },
+  {
+    "creator(s)": "dazaims",
+    "statuses": {
+      "[2023-04-30]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "properties": {
+      "keyless": false
+    },
+    "fileSource": "scripts/_script hubs/DA Hub.lua"
+  },
+  {
+    "creator(s)": "RandomAdamYT",
+    "source": "https://github.com/RandomAdamYT/DarkHub/",
+    "statuses": {
+      "[2023-04-28]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "properties": {
+      "keyless": true
+    },
+    "fileSource": "scripts/_script hubs/Dark Hub.lua"
+  },
+  {
+    "creator(s)": "(Unknown)",
+    "statuses": {
+      "[2023-05-17]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/_script hubs/Destroy all buildings.lua"
+  },
+  {
+    "creator(s)": "shlexware",
+    "source": "https://github.com/shlexware/domainx",
+    "statuses": {
+      "[2023-04-25]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "properties": {
+      "keyless": true
+    },
+    "fileSource": "scripts/_script hubs/DomainX.lua"
+  },
+  {
+    "creator(s)": "£thanoj1#3304",
+    "statuses": {
+      "[2023-04-26]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "properties": {
+      "keyless": true
+    },
+    "fileSource": "scripts/_script hubs/Eclipse Hub.lua"
+  },
+  {
+    "creator(s)": "Memedog#1256",
+    "developer(s)": "Mellohic#3546, Diemiers#4209",
+    "statuses": {
+      "[2023-05-07]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "properties": {
+      "keyless": true
+    },
+    "fileSource": "scripts/_script hubs/FE Hax Beta.lua"
+  },
+  {
+    "creator(s)": "(Unknown)",
+    "statuses": {
+      "[2023-05-08]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "properties": {
+      "keyless": true
+    },
+    "fileSource": "scripts/_script hubs/Hoho Hub.lua"
+  },
+  {
+    "creator(s)": "Lz0x#1510",
+    "statuses": {
+      "[2023-04-30]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "properties": {
+      "keyless": true
+    },
+    "fileSource": "scripts/_script hubs/Holf Hub I Universal.lua"
+  },
+  {
+    "creator(s)": "Upbolt",
+    "source": "https://github.com/Upbolt/Hydroxide",
+    "statuses": {
+      "[2023-04-25]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "properties": {
+      "keyless": true
+    },
+    "fileSource": "scripts/_script hubs/Hydroxide.lua"
+  },
+  {
+    "creator(s)": "(Unknown)",
+    "source": "https://kidachi.xyz/",
+    "statuses": {
+      "[2023-05-08]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "properties": {
+      "keyless": false
+    },
+    "fileSource": "scripts/_script hubs/Kidachi Hub.lua"
+  },
+  {
+    "creator(s)": "(Unknown)",
+    "statuses": {
+      "[2023-05-08]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "properties": {
+      "keyless": true
+    },
+    "fileSource": "scripts/_script hubs/King's Hub V2.lua"
+  },
+  {
+    "creator(s)": "penguin",
+    "statuses": {
+      "[2023-04-26]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "properties": {
+      "keyless": true
+    },
+    "fileSource": "scripts/_script hubs/Kyntalware.lua"
+  },
+  {
+    "creator(s)": "Commandcracker",
+    "source": "https://github.com/Commandcracker/Magma-Hub",
+    "statuses": {
+      "[2023-05-01]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "properties": {
+      "keyless": true
+    },
+    "fileSource": "scripts/_script hubs/Magma Hub.lua"
+  },
+  {
+    "creator(s)": "(Unknown)",
+    "statuses": {
+      "[2023-05-08]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "properties": {
+      "keyless": true
+    },
+    "fileSource": "scripts/_script hubs/Netna Hub.lua"
+  },
+  {
+    "creator(s)": "richie0866",
+    "source": "https://github.com/richie0866/orca/",
+    "statuses": {
+      "[2023-04-30]": [
+        "Working | I2rys#0663 | Sirhurt",
+        "Working | Recycled Paper#2213 | Comet 3"
+      ]
+    },
+    "properties": {
+      "keyless": true
+    },
+    "fileSource": "scripts/_script hubs/Orca Hub.lua"
+  },
+  {
+    "creator(s)": "AlexR32#0157",
+    "source": "https://github.com/AlexR32/Parvus",
+    "statuses": {
+      "[2023-05-01]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "properties": {
+      "keyless": true
+    },
+    "fileSource": "scripts/_script hubs/Parvus Hub.lua"
+  },
+  {
+    "creator(s)": "Tescalus",
+    "statuses": {
+      "[2023-04-26]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "properties": {
+      "keyless": true
+    },
+    "fileSource": "scripts/_script hubs/Pendulum Hub (Discontinued).lua"
+  },
+  {
+    "creator(s)": "(Unknown)",
+    "statuses": {
+      "[2023-05-09]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/_script hubs/PWNER Hub V3.lua"
+  },
+  {
+    "creator(s)": "EnxicordBD#5834",
+    "statuses": {
+      "[2023-04-30]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "properties": {
+      "keyless": true
+    },
+    "fileSource": "scripts/_script hubs/Rayfield Hub.lua"
+  },
+  {
+    "creator(s)": "Gandalf#2848",
+    "statuses": {
+      "[2023-05-17]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "properties": {
+      "keyless": true
+    },
+    "fileSource": "scripts/_script hubs/ReaperHub.lua"
+  },
+  {
+    "creator(s)": "RoseLua",
+    "statuses": {
+      "[2023-04-27]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "properties": {
+      "keyless": true
+    },
+    "fileSource": "scripts/_script hubs/Rose Hub v3.0.5.lua"
+  },
+  {
+    "creator(s)": "Sleazy#0777",
+    "statuses": {
+      "[2023-05-07]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "properties": {
+      "keyless": true
+    },
+    "fileSource": "scripts/_script hubs/Slaezy GUI.lua"
+  },
+  {
+    "creator(s)": "(Unknown)",
+    "statuses": {
+      "[2023-05-08]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "properties": {
+      "keyless": true
+    },
+    "fileSource": "scripts/_script hubs/ThunderZ Hub - UI.lua"
+  },
+  {
+    "creator(s)": "(Unknown)",
+    "source": "https://github.com/Dumb-Utility/UnnamedStorage",
+    "statuses": {
+      "[2023-05-18]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "fileSource": "scripts/_script hubs/Unnamed Hub.lua"
+  },
+  {
+    "creator(s)": "1201for",
+    "statuses": {
+      "[2023-05-08]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "properties": {
+      "keyless": true
+    },
+    "fileSource": "scripts/_script hubs/V.G-Hub.lua"
+  },
+  {
+    "creator(s)": "vesper#0655",
+    "statuses": {
+      "[2023-04-30]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "properties": {
+      "keyless": true
+    },
+    "fileSource": "scripts/_script hubs/VesperX.lua"
+  },
+  {
+    "creator(s)": "laderite",
+    "statuses": {
+      "[2023-05-13]": [
+        "Working | I2rys#0663 | Sirhurt"
+      ]
+    },
+    "properties": {
+      "keyless": false,
+      "supportedGames": [
+        "Trade Tower",
+        "Age of Gays",
+        "RPG Simulator World 1 & 2",
+        "Mega Mansion Tycoon",
+        "Super Hero VS God Tycoon",
+        "Demon Soul",
+        "Military Tycoon",
+        "Untitled Hood GUI",
+        "Untitled Hood New GUI"
+      ]
+    },
+    "fileSource": "scripts/_script hubs/Zen X.lua"
+  }
+]
