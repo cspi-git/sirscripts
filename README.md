@@ -4,7 +4,7 @@ SirScripts is a simple, yet will be your favorite Roblox exploits scripts CDN we
 ## Installation
 Github:
 ```
-git clone https://github.com/hanaui-git/sirscripts
+git clone https://github.com/cspi-git/sirscripts
 ```
 
 NpmJS:
@@ -21,4 +21,4 @@ node index.js
 The scripts are not included here, you can add your own scripts in the **scripts** folder.
 
 ## License
-MIT © Hanaui
+MIT © CSPI
